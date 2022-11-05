@@ -40,7 +40,7 @@ def slice_census_data(df, model, encoder, scaler, lb, cat_features,
         file_object.close()
 
 
-data = pd.read_csv("../data/cleaned_census_data.csv")
+data = pd.read_csv("../starter/data/cleaned_census_data.csv")
 
 # Optional enhancement, use K-fold cross validation instead of a train-test split.
 train, test = train_test_split(data, test_size=0.20)
