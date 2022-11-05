@@ -1,0 +1,81 @@
+
+------Holding Categorical feature education and value  Bachelors fixed -------
+Precision: 0.7438423645320197
+Recall: 0.8158487167942369
+F1Score: 0.7781833798582779
+------------------------------------------
+------Holding Categorical feature education and value  HS-grad fixed -------
+Precision: 0.6867647058823529
+Recall: 0.27880597014925373
+F1Score: 0.3966029723991507
+------------------------------------------
+------Holding Categorical feature education and value  11th fixed -------
+Precision: 1.0
+Recall: 0.13333333333333333
+F1Score: 0.23529411764705882
+------------------------------------------
+------Holding Categorical feature education and value  Masters fixed -------
+Precision: 0.7994269340974212
+Recall: 0.872784150156413
+F1Score: 0.8344965104685943
+------------------------------------------
+------Holding Categorical feature education and value  9th fixed -------
+Precision: 1.0
+Recall: 0.037037037037037035
+F1Score: 0.07142857142857142
+------------------------------------------
+------Holding Categorical feature education and value  Some-college fixed -------
+Precision: 0.6677667766776678
+Recall: 0.437635183850036
+F1Score: 0.5287456445993031
+------------------------------------------
+------Holding Categorical feature education and value  Assoc-acdm fixed -------
+Precision: 0.6666666666666666
+Recall: 0.4981132075471698
+F1Score: 0.5701943844492441
+------------------------------------------
+------Holding Categorical feature education and value  Assoc-voc fixed -------
+Precision: 0.6798418972332015
+Recall: 0.47645429362880887
+F1Score: 0.5602605863192183
+------------------------------------------
+------Holding Categorical feature education and value  7th-8th fixed -------
+Precision: 0.5
+Recall: 0.05
+F1Score: 0.09090909090909091
+------------------------------------------
+------Holding Categorical feature education and value  Doctorate fixed -------
+Precision: 0.8385093167701864
+Recall: 0.8823529411764706
+F1Score: 0.8598726114649682
+------------------------------------------
+------Holding Categorical feature education and value  Prof-school fixed -------
+Precision: 0.840958605664488
+Recall: 0.9125295508274232
+F1Score: 0.8752834467120182
+------------------------------------------
+------Holding Categorical feature education and value  5th-6th fixed -------
+Precision: 1.0
+Recall: 0.1875
+F1Score: 0.3157894736842105
+------------------------------------------
+------Holding Categorical feature education and value  10th fixed -------
+Precision: 0.75
+Recall: 0.0967741935483871
+F1Score: 0.1714285714285714
+------------------------------------------
+------Holding Categorical feature education and value  1st-4th fixed -------
+Precision: 1.0
+Recall: 0.16666666666666666
+F1Score: 0.2857142857142857
+------------------------------------------
+------Holding Categorical feature education and value  Preschool fixed -------
+Precision: 0.0
+Recall: 1.0
+F1Score: 0.0
+------------------------------------------
+------Holding Categorical feature education and value  12th fixed -------
+Precision: 0.8888888888888888
+Recall: 0.24242424242424243
+F1Score: 0.38095238095238093
+------------------------------------------
